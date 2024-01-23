@@ -16,3 +16,8 @@ Interactive features: Editable content and user-friendly interactions.
 Styled resume: Visually appealing design based on specified styles.
 Dynamic content: Easily updatable resume without code changes.
 Export/print option (optional): Ability to export/print the resume (e.g., PDF).
+
+
+# PE02:- 
+
+<img width="1437" alt="Screenshot 2024-01-10 at 4 13 26 PM" src="https://github.com/yogesh2699/cs628-pe-yogesh-goel/assets/24565556/3a0aa1f4-1c5a-46d7-961f-18b4701c89e7">
