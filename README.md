@@ -26,7 +26,8 @@ Export/print option (optional): Ability to export/print the resume (e.g., PDF).
 
 #PE03:-
 
-![Alt text](<Screenshot 2024-01-23 at 3.42.35 PM (2).png>)
+![Screenshot 2024-01-23 at 3 42 35 PM](https://github.com/yogesh2699/cs628-pe-yogesh-goel/assets/24565556/4dcec01a-58c8-4b23-990d-8622ea8ae329)
+
 
 Input
 
