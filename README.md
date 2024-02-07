@@ -48,3 +48,12 @@ The Output stage presents the todo list to the user, dynamically rendered using 
 CSS styling is applied to further improve the user interface, making the todo list visually appealing and user-friendly. The TodoList.css file provides the necessary styles to enhance the layout and overall look of the application.
 
 The todo list application adheres to the Input-Process-Output model effectively. By capturing user input, processing it through event handlers and state management with useState, and presenting the result as a dynamic and visually pleasing todo list, the application offers a seamless and efficient way for users to manage their tasks. The use of separate components and the .map() function enhances code modularity and readability, contributing to a well-organized and maintainable application.
+
+
+# PE04 -
+
+<img width="1438" alt="Screenshot 2024-02-06 at 5 07 40 PM" src="https://github.com/yogesh2699/cs628-pe-yogesh-goel/assets/24565556/4ea30e20-2a25-473e-aedf-35ca6b828c6e">
+<img width="1439" alt="Screenshot 2024-02-06 at 5 07 32 PM" src="https://github.com/yogesh2699/cs628-pe-yogesh-goel/assets/24565556/6539a1c7-418d-4d3a-8c47-d488544222fc">
+
+
+
