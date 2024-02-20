@@ -5,7 +5,7 @@ ul {
 }
 
 header {
-  background-color: #45c585;
+  background-color: #3A3B3C;
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -41,8 +41,8 @@ nav a.active {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  background-color: #eea3a3;
-  border: 1px solid #ee8b8b;
+  background-color: #F5F5F5;
+  border: 1px solid #F5F5F5;
 }
 
 .left-content {
